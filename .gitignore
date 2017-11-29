@@ -1,0 +1,11 @@
+
+# folder Debug
+30G_LOW_POWER/30G_LOW_POWER/Debug/
+
+30G_LOW_POWER/*.bak
+
+# folder logs
+logs/
+
+# txt files from docs folder
+docs/*.txt
