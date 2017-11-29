@@ -8,6 +8,9 @@
 #include <asf.h>
 #include "power_mod.h"
 
+/*
+test
+*/
 
 ///**
  //* \brief Main clock source selection between DFLL and OSC16M.
